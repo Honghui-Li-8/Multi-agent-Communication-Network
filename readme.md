@@ -1,4 +1,5 @@
-### Project: Lightweight and Efficient Multi-agent Communication Network in Agricultural Applications
+Project: Lightweight and Efficient Multi-agent Communication Network in Agricultural Applications
+
 
 
 # Background
